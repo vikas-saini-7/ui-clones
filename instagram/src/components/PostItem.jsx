@@ -8,7 +8,7 @@ const PostItem = () => {
             <div className="w-11 h-11 p-0.5 rounded-full border-2 border-red-600">
             <a href="#"><img className="w-full h-full rounded-full border object-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaLyIiqSET1Z7Ati_tE8qOXqsYp_vC7zBjEf7EtLQ7w&s" alt=""/></a>
             </div>
-            <a className="text-black text-sm font-semibold hover:underline" href="#">the_vikas</a>
+            <a className="text-black text-sm font-semibold hover:underline" href="#">the_vikas_saini</a>
             </div>
             <div className="items-center">
             <svg aria-label="More options" className="cursor-pointer" fill="#262626" height="16" role="img" viewBox="0 0 48 48" width="18"><circle clip-rule="evenodd" cx="8" cy="24" fill-rule="evenodd" r="4.5"></circle><circle clip-rule="evenodd" cx="24" cy="24" fill-rule="evenodd" r="4.5"></circle><circle clip-rule="evenodd" cx="40" cy="24" fill-rule="evenodd" r="4.5"></circle></svg>
