@@ -1,6 +1,6 @@
 # UI Clones
 
-Welcome to the `ui-clones` repository, where we recreate popular user interfaces to learn and showcase front-end development skills.
+Welcome to the `ui-clones` repository, where I have created popular user interfaces to learn and showcase front-end development skills.
 
 ## About the Project
 
