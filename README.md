@@ -9,7 +9,6 @@ This repository contains a collection of UI clones from well-known applications 
 ## Clones List
 
 - Whatsapp Clone - [Check Live](https://whatsapp-vk.vercel.app)
-![Alt Text](./whatsapp/public/images/thumbnail.png)
 - Instagram Clone - [Check Live](https://instagram-o2xya5u15-vikas-saini-7.vercel.app/)
 - More adding soon..
 
