@@ -26,9 +26,9 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repo
    ```sh
    git clone https://github.com/vikas-saini-7/ui-clones.git
-2. Go to the clone that you want
+2. Go to the clone that you want for example -
    ```sh
-   e. g. - cd instagram
+   cd instagram
 3. Run :
    ```sh
    npm install
