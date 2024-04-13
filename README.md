@@ -8,10 +8,9 @@ This repository contains a collection of UI clones from well-known applications 
 
 ## Clones List
 
-- Netflix Clone
-- Amazon Clone
-- Spotify Clone
-- ... (add more as needed)
+- Whatsapp Clone - [Check Live](https://whatsapp-vk.vercel.app)
+- Instagram Clone - [Check Live](https://instagram-o2xya5u15-vikas-saini-7.vercel.app/)
+- More adding soon..
 
 ## Technologies Used
 
@@ -19,7 +18,6 @@ This repository contains a collection of UI clones from well-known applications 
 - CSS
 - JavaScript
 - React.js
-- ... (add more as needed)
 
 ## Getting Started
 
@@ -28,3 +26,12 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repo
    ```sh
    git clone https://github.com/vikas-saini-7/ui-clones.git
+2. Go to the clone that you want
+   ```sh
+   e. g. - cd instagram
+3. Run :
+   ```sh
+   npm install
+4. Start:
+   ```sh
+   npm start
